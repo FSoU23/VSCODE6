@@ -1,11 +1,9 @@
 Лабораторная работа №6: Асинхронный JavaScript — API и хранилище
 Тема
 
-Работа с асинхронным JavaScript: получение данных с API через fetch, использование Promise и async/await, а также сохранение состояния страницы с помощью localStorage.
+## Работа с асинхронным JavaScript: получение данных с API через fetch, использование Promise и async/await, а также сохранение состояния страницы с помощью localStorage. ##
 
 Скриншоты работы интерактивных элементов
-
-(места для вставки)
 
 <img width="2520" height="1393" alt="image" src="https://github.com/user-attachments/assets/cd296eb2-f549-422b-95ea-eea0b8aecaca" />
 <img width="2504" height="1387" alt="image" src="https://github.com/user-attachments/assets/c3ffbbeb-8eab-4b60-ac1d-53cf17716502" />
