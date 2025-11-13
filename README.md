@@ -5,6 +5,7 @@
 <img width="2504" height="1387" alt="image" src="https://github.com/user-attachments/assets/c3ffbbeb-8eab-4b60-ac1d-53cf17716502" />
 <img width="2511" height="1407" alt="image" src="https://github.com/user-attachments/assets/953f594c-5bf9-4ebd-9914-9d047080616c" />
 <img width="2483" height="1407" alt="image" src="https://github.com/user-attachments/assets/81ce1965-1a62-4d36-8637-02c0ac0b68df" />
+
 # Ответы на вопросы #
 ## 1. Что делает fetch? ##
 Метод fetch используется для отправки HTTP-запросов из браузера.
